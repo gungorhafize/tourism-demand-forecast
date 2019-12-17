@@ -16,9 +16,7 @@ Yapay Sinir Ağları İleri Beslemeli Geriye Yayılım (Feed Forward Backpropoga
 
 
 
-# Grafik Sonuçları 
-*EN*
-# Graphic Results
+# Grafik Sonuçları - Graphic Results
 ![12mse](https://user-images.githubusercontent.com/33956266/61666514-59c14180-ace0-11e9-9b47-abb68365c0c6.PNG)
 
 ![13trainingstate](https://user-images.githubusercontent.com/33956266/61667066-abb69700-ace1-11e9-9d37-3f32ff49ffa0.PNG)
