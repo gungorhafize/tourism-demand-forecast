@@ -5,6 +5,14 @@ Yapay Sinir Ağları İleri Beslemeli Geriye Yayılım (Feed Forward Backpropoga
 - Verilerin %15'i training
 %15'i test için kullanılmıştır.
 
+----
+# Tourism demand forecast with Artificial Neural Networks
+- The data required for tourism demand forecast for Turkey; monthly air temperature, tourism income that coming to Turkey in million dollars per month, average dollar rate of each month -some of these datas consists of estimated values-, monthly and annual rifle rates-some of these datas consists of estimated value The number of tourists entering our country has also been taken from the necessary institutions. 5 independent input variables and 1 used as output parameter. In this study, the number of tourists coming to Turkey in 2019 artificial neural network (ANN) was estimated by model.
+- The algorithm:
+Artificial Neural Networks Feed Forward Backpropogation Algorithm
+- 15% of data were used for training
+- 15% were used for testing.
+
 #*EN*
 # Tourism Demand Forecast via Artificial Neural Networks
 ### Required datas; 
