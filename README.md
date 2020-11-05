@@ -13,8 +13,7 @@ Artificial Neural Networks Feed Forward Backpropogation Algorithm
 - 15% of data were used for training
 - 15% were used for testing.
 
-#*EN*
-# Tourism Demand Forecast via Artificial Neural Networks
+
 ### Required datas; 
 * some of these datas consists of estimated values
 -monthly air temperature
